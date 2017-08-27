@@ -1,1 +1,3 @@
 # pythoncourse
+
+Taming the snake.
